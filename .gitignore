@@ -1,3 +1,4 @@
 .venv
 *.exe
 reports/
+__pycache__/
